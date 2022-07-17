@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+    "rustc_jvm_lexer",
+    "rustc_jvm_parser",
+    "rustc_jvm_driver",
+    "rustc_jvm_ast",
+    "jvm_bytecode"
+]
+

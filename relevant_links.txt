@@ -1,0 +1,9 @@
+https://blogs.oracle.com/javamagazine/post/epsilon-the-jdks-do-nothing-garbage-collector?source=techstories.org
+https://openjdk.java.net/jeps/393
+https://openjdk.java.net/jeps/389
+https://en.wikipedia.org/wiki/Java_bytecode
+https://en.wikipedia.org/wiki/List_of_Java_bytecode_instructions
+https://docs.oracle.com/javase/specs/
+https://docs.oracle.com/javase/specs/jvms/se17/html/jvms-4.html
+https://docs.oracle.com/javase/specs/jvms/se17/html/jvms-6.html
+

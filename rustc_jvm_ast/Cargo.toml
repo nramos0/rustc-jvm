@@ -1,0 +1,11 @@
+[package]
+name = "rustc_jvm_ast"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+lazy_static = "1.4.0"
+rustc_jvm_lexer = { path = "../rustc_jvm_lexer" }
+jvm_bytecode = { path = "../jvm_bytecode" }

@@ -1,0 +1,12 @@
+[package]
+name = "rustc_jvm_driver"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rustc_jvm_lexer = { path = "../rustc_jvm_lexer" }
+rustc_jvm_parser = { path = "../rustc_jvm_parser" }
+jvm_bytecode = { path = "../jvm_bytecode" }
+clap = "~2.34"
